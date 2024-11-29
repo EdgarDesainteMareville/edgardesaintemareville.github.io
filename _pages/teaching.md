@@ -1,12 +1,9 @@
 ---
 layout: default
-title: Enseignement
+title: Teaching - Edgar Desainte-Maréville
 permalink: /teaching/
 ---
 
 # Enseignement
 
-J'ai enseigné ou assisté à l'enseignement des cours suivants :
-- Analyse numérique - Niveau L3
-- Introduction à l'apprentissage automatique - Niveau M1
-- Programmation en Python - Niveau L1
+A venir

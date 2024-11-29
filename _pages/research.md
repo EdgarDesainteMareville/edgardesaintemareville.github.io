@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Research - Edgar Desainte-Maréville
 permalink: /research/
 ---
 
