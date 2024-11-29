@@ -1,0 +1,171 @@
+/* Global styles */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #ccc;
+    background-color: #121212;
+    /* Fond sombre */
+    box-sizing: border-box;
+    /* Pour un calcul plus intuitif du padding */
+}
+
+/* Container */
+.container {
+    max-width: 900px;
+    /* Limite la largeur du contenu */
+    margin: 0 auto;
+    /* Centre horizontalement */
+    padding: 20px;
+    /* Ajoute de l'espace autour du contenu */
+}
+
+main.container {
+    max-width: 800px;
+    /* Largeur maximale du texte */
+    margin: 0 auto;
+    /* Centre horizontalement */
+    padding: 20px;
+    /* Ajoute de l'espace autour */
+    text-align: left;
+    /* Garde le texte aligné à gauche */
+}
+
+/* Paragraphes dans le contenu Markdown */
+main.container p {
+    line-height: 1.8;
+    /* Améliore la lisibilité */
+    margin-bottom: 15px;
+    /* Ajoute de l'espace entre les paragraphes */
+}
+
+main,
+header,
+footer {
+    margin-bottom: 20px;
+    /* Espacement vertical entre les sections */
+}
+
+main {
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+/* Header */
+header {
+    background: #1e1e1e;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 5px 0 0;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    color: #90caf9;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Profile Picture */
+.profile-pic {
+    float: right;
+    /* Place l'image à droite */
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    /* Coins arrondis */
+    margin-left: 20px;
+    /* Espace entre l'image et le texte */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    /* Effet d'ombre */
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Section */
+.section {
+    background: #1e1e1e;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    background: #1e1e1e;
+    color: #fff;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+/* Links */
+a {
+    color: #90caf9;
+}
+
+a:hover {
+    color: #42a5f5;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    header nav ul {
+        text-align: center;
+    }
+
+    header nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    header h1 {
+        font-size: 2em;
+    }
+
+    .section {
+        padding: 15px;
+    }
+
+    footer {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 {
+        font-size: 1.8em;
+    }
+
+    header p {
+        font-size: 0.9em;
+    }
+
+    .container {
+        width: 95%;
+        padding: 10px;
+    }
+}

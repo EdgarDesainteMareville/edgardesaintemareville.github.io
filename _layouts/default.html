@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <img src="{{ '/assets/images/profile.jpg' | relative_url }}" alt="Profile" class="profile-pic">
+                <div>
+                    <h1>Edgar Desainte-Maréville</h1>
+                    <p>PhD student at ENS Lyon</p>
+                </div>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="{{ '/' | relative_url }}">Home</a></li>
+                    <li><a href="{{ '/research/' | relative_url }}">Research</a></li>
+                    <li><a href="{{ '/teaching/' | relative_url }}">Teaching</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Edgar Desainte-Maréville. Tous droits réservés.</p>
+        </div>
+    </footer>
+    <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+</body>
+
+</html>

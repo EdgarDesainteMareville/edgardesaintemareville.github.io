@@ -1,0 +1,12 @@
+markdown: kramdown
+kramdown:
+  input: GFM
+mathjax: true
+sass:
+  style: compressed
+permalink: pretty
+collections:
+  pages:
+    output: true
+baseurl: "" # Leave empty for GitHub Pages root domain hosting
+url: "https://edgardesaintemareville.github.io" # Your site's URL
