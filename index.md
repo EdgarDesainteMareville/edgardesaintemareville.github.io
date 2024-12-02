@@ -11,5 +11,5 @@ I am a first-year PhD student at [École Normale Supérieure de Lyon](https://ww
 I am interested in inverse problems and multilevel optimization.
 
 ## Contact
-- **e-mail :** edgar.desainte-mareville [@] ens-lyon.fr
-- **GitHub :** https://github.com/EdgarDesainteMareville
+- **E-mail :** edgar.desainte-mareville [@] ens-lyon.fr
+- **[GitHub](https://github.com/EdgarDesainteMareville)**

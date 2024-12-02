@@ -11,7 +11,7 @@ permalink: /curriculum/
 
 ## Education
 
-- PhD student in applied mathematics, *École Normale Supérieure de Lyon*, 2024-Current.
+- PhD student in applied mathematics, *École Normale Supérieure de Lyon*, 2024-2027.
 - Engineering degree, specialized in applied mathematics, *École Centrale de Lyon*, 2020-2024.
 - M.Sc. in Applied Mathematics (Master Maths en Action), *Université Claude Bernard Lyon 1* & *École Centrale de Lyon*, 2023-2024.
 - B.Sc. in mathematics, *Université Claude Bernard Lyon 1*, 2020-2021.
