@@ -7,7 +7,7 @@ permalink: /curriculum/
 # Curriculum
 
 ## Experience
-- Master's internship at *[MaLGa](https://malga.unige.it)*, *University of Genoa*, under the supervision of Matteo Santacesaria and Giovanni S. Alberti. Topic : generative models for infinite dimensional spaces with pseudo-differential neural operators.
+- Master's internship at *[MaLGa](https://malga.unige.it)*, *University of Genoa*, under the supervision of [Matteo Santacesaria](https://sites.google.com/view/santacesaria/home) and [Giovanni S. Alberti](https://giovannisalberti.github.io/). Topic : generative models for infinite dimensional spaces with pseudo-differential neural operators.
 
 ## Education
 
