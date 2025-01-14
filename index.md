@@ -13,3 +13,4 @@ I am interested in inverse problems, multilevel optimization, and machine learni
 ## Contact
 - **E-mail :** edgar.desainte-mareville [@] ens-lyon.fr
 - **[GitHub](https://github.com/EdgarDesainteMareville)**
+- **Office :** M7-1H29, ENS Lyon site Monod, 46 allée d'Italie, 69007 Lyon, France
