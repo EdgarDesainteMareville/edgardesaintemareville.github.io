@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Curriculum - Edgar Desainte-Maréville
+title: Edgar Desainte-Maréville
 permalink: /curriculum/
 ---
 

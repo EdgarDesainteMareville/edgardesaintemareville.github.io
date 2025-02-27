@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Teaching - Edgar Desainte-Maréville
+title: Edgar Desainte-Maréville
 permalink: /teaching/
 ---
 
