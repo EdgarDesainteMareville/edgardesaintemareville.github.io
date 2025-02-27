@@ -4,7 +4,7 @@ title: Research - Edgar Desainte-Maréville
 permalink: /research/
 ---
 
-# Recherche
+# Research
 
 Mes research interest are :
 -
