@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home - Edgar Desainte-Maréville
+title: Edgar Desainte-Maréville
 ---
 
 
