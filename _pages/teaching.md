@@ -6,10 +6,12 @@ permalink: /teaching/
 
 # Teaching
 
+I am a teaching assistant for the following classes :
+
 ## 2024-2025
 
 At [INSA Lyon](https://www.insa-lyon.fr/):
-- **3GE MA3.** Introduction to probability and statistics : course and tutorials *(in French)*. <br>
+- **4GE MA3.** Introduction to probability and statistics : course and tutorials *(in French)*. <br>
 Material : <a href="/assets/files/Slide_MA3_stat_compl.pdf" target="_blank">Slides</a>
-- **FIMI 2A S4.**  Mathematics - Numerical series, power series, bilinear algebra : tutorials *(in English)*. <br>
-Material : <a href="/assets/files/05-series-TD-scan2.pdf" target="_blank">Tutorial 5</a>
+- **FIMI GLOBALINSA 2nd year.**  Mathematics - Numerical series, power series, bilinear algebra : tutorials *(in English)*. <br>
+Exercise sheets : <a href="/assets/files/05-series-TD-scan2.pdf" target="_blank">Numerical series and power series</a>, <a href="/assets/files/05-series-TD-scan2.pdf" target="_blank">Inner products</a>
