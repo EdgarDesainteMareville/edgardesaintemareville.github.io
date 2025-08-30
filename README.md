@@ -1,1 +1,1 @@
-This website was made using the [al folio](https://alshedivat.github.io/al-folio/) template.
+This website was made using the [al folio](https://github.com/alshedivat/al-folio) template.
