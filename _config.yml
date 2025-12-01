@@ -169,9 +169,10 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages", "_scripts"]
 include:
-  - google7a6cd918cbb35642.html # google site verification file
+  - _pages
+  - _scripts
+  - google7a6cd918cbb35642.html
 exclude:
   - bin/
   - CONTRIBUTING.md
