@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -32,8 +32,3 @@ I am a first-year PhD student in the [OCKHAM team](https://team.inria.fr/ockham/
 I graduated in applied mathematics from [Ecole Centrale de Lyon](https://www.ec-lyon.fr) and the [Maths en Action](https://mastermas.univ-lyon1.fr/index.php/m2-maths-en-action/) master's program. I completed my master's thesis at [MaLGa](https://malga.unige.it), under the supervision of [Matteo Santacesaria](https://sites.google.com/view/santacesaria/home) and [Giovanni S. Alberti](https://giovannisalberti.github.io). More information can be found in my [curriculum](/assets/pdf/Curriculum.pdf).
 
 My research interests include multilevel optimization and learning-based methods for inverse problems.
-
-## News
-
-- **June 2026:** I won the best poster award at the [*2026 PhD Summer School on Mathematics and Machine Learning for Image Analysis*](https://site.unibo.it/mml-imaging26/en) in Bologna. The poster is available [here](/assets/pdf/posters/poster_smaimode2026.pdf).
-- **May 2026:** Our paper *Multiresolution Adaptive Block-Coordinate Forward-Backward Algorithm for Image Restoration* has been accepted at [EUSIPCO 2026](https://eusipco2026.org)! More details on the [publications](/publications/) page.
