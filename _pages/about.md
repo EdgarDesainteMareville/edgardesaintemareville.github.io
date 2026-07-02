@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student in inverse problems and optimization at <a href='#https://www.ens-lyon.fr'>ENS Lyon</a>
+subtitle: PhD student in inverse problems and optimization at <a href='https://www.ens-lyon.fr'>ENS Lyon</a>
 
 profile:
   align: right
@@ -36,3 +36,4 @@ My research interests include multilevel optimization and learning-based methods
 ## News
 
 - **June 2026:** I won the best poster award at the [*2026 PhD Summer School on Mathematics and Machine Learning for Image Analysis*](https://site.unibo.it/mml-imaging26/en) in Bologna. The poster is available [here](/assets/pdf/posters/poster_smaimode2026.pdf).
+- **May 2026:** Our paper *Multiresolution Adaptive Block-Coordinate Forward-Backward Algorithm for Image Restoration* has been accepted at [EUSIPCO 2026](https://eusipco2026.org)! More details on the [publications](/publications/) page.
