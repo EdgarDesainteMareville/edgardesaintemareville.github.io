@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in the [OCKHAM team](https://team.inria.fr/ockham/en/) at Inria, within the [LIP laboratory](https://www.ens-lyon.fr/LIP/) at ENS Lyon, under the supervision of [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/), [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) and [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik/). 
+I am a first-year PhD student in the [OCKHAM team](https://team.inria.fr/ockham/en/) at Inria, within the [LIP laboratory](https://www.ens-lyon.fr/LIP/) at ENS Lyon, under the supervision of [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/), [Paulo Gonçalves](http://perso.ens-lyon.fr/paulo.goncalves/) and [Nelly Pustelnik](http://perso.ens-lyon.fr/nelly.pustelnik/).
 
 I graduated in applied mathematics from [Ecole Centrale de Lyon](https://www.ec-lyon.fr) and the [Maths en Action](https://mastermas.univ-lyon1.fr/index.php/m2-maths-en-action/) master's program. I completed my master's thesis at [MaLGa](https://malga.unige.it), under the supervision of [Matteo Santacesaria](https://sites.google.com/view/santacesaria/home) and [Giovanni S. Alberti](https://giovannisalberti.github.io). More information can be found in my [curriculum](/assets/pdf/Curriculum.pdf).
 
 My research interests include multilevel optimization and learning-based methods for inverse problems.
+
+## News
+
+- **June 2026:** I won the best poster award at the [*2026 PhD Summer School on Mathematics and Machine Learning for Image Analysis*](https://site.unibo.it/mml-imaging26/en) of Bologna. The poster can be found in the talks section of this website.
