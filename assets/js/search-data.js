@@ -52,16 +52,14 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+      },{id: "news-our-paper-multiresolution-adaptive-block-coordinate-forward-backward-algorithm-for-image-restoration-has-been-accepted-at-eusipco-2026-more-details-on-the-publications-page",
+          title: 'Our paper Multiresolution Adaptive Block-Coordinate Forward-Backward Algorithm for Image Restoration has been accepted...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-gave-a-talk-on-multiresolution-adaptive-block-coordinate-descent-methods-for-imaging-problems-at-the-siam-conference-on-optimization-op26-in-edinburgh-the-slides-are-available-here",
+          title: 'I gave a talk on Multiresolution Adaptive Block-Coordinate Descent Methods for Imaging Problems...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-won-the-best-poster-award-at-the-2026-phd-summer-school-on-mathematics-and-machine-learning-for-image-analysis-in-bologna-the-poster-is-available-here",
+          title: 'I won the best poster award at the 2026 PhD Summer School on...',
           description: "",
           section: "News",},{
         id: 'social-email',
