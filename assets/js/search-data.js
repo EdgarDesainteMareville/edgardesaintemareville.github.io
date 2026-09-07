@@ -61,6 +61,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-won-the-best-poster-award-at-the-2026-phd-summer-school-on-mathematics-and-machine-learning-for-image-analysis-in-bologna-the-poster-is-available-here",
           title: 'I won the best poster award at the 2026 PhD Summer School on...',
           description: "",
+          section: "News",},{id: "news-i-was-at-eusipco-2026-in-bruges-belgium-to-present-our-paper-on-multiresolution-block-coordinate-descent-methods-for-image-reconstruction-available-here",
+          title: 'I was at EUSIPCO 2026 in Bruges, Belgium, to present our paper on...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
