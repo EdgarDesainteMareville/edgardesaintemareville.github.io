@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-at-eusipco-2026-in-bruges-belgium-to-present-our-paper-on-multiresolution-block-coordinate-descent-methods-for-image-reconstruction-available-here",
           title: 'I was at EUSIPCO 2026 in Bruges, Belgium, to present our paper on...',
           description: "",
+          section: "News",},{id: "news-our-new-preprint-on-a-multiresolution-block-coordinate-plug-and-play-algorithm-for-image-reconstruction-is-out-on-arxiv",
+          title: 'Our new preprint on a multiresolution block-coordinate Plug-and-Play algorithm for image reconstruction is...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
