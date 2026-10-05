@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
+## 2026-2027
+At [ENS Lyon](https://www.ens-lyon.fr):
+- **Computer science master's:** M2 Images. Code: [Image deblurring](/assets/teaching/2026-2027/test-fb.py)
+
 ## 2025–2026
 At [INSA Lyon](https://www.insa-lyon.fr/):
 - **FIMI 2nd year:** Mathematics (numerical series, power series, bilinear algebra, differential calculus, and optimization) — tutorials *(in French)*  
